@@ -1,0 +1,30 @@
+<controls>
+    <SliderInt_threshold>
+        <name>threshold</name>
+        <value>381</value>
+    </SliderInt_threshold>
+    <Toggle_use_live_video>
+        <name>use live video</name>
+        <value>0</value>
+    </Toggle_use_live_video>
+    <Toggle_findHoles>
+        <name>findHoles</name>
+        <value>0</value>
+    </Toggle_findHoles>
+    <Toggle_useApproximation>
+        <name>useApproximation</name>
+        <value>0</value>
+    </Toggle_useApproximation>
+    <SliderFloat_minBlobSize>
+        <name>minBlobSize</name>
+        <value>0.294871807</value>
+    </SliderFloat_minBlobSize>
+    <SliderFloat_maxBlobSize>
+        <name>maxBlobSize</name>
+        <value>0.555555582</value>
+    </SliderFloat_maxBlobSize>
+    <SliderInt_maxNumBlobs>
+        <name>maxNumBlobs</name>
+        <value>71</value>
+    </SliderInt_maxNumBlobs>
+</controls>
